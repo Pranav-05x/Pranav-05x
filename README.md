@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey there! I'm Pranav Magdum 👋
 
-<!--
-**Pranav-05x/Pranav-05x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Engineering Student | 5th Semester | Pune, India
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate full stack developer actively building projects,
+solving DSA problems daily, and exploring backend development & AI integration.
+Currently learning through 100xDevs bootcamp by Harkirat Singh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend** — HTML, CSS, JavaScript, React
+- **Backend** — Node.js, Express (learning)
+- **Languages** — C, C++, JavaScript
+- **Tools** — Git, GitHub, VS Code
+
+## 📊 DSA
+- Practicing daily on LeetCode
+- Medium level — Arrays, Strings, Stack, Queue, Linked List, Trees
+
+## 🔥 Currently
+- 🌱 Completing 100xDevs Full Stack Bootcamp
+- 💻 Building projects daily
+- 🤝 Open Source Contributor @ GSSoC 2026
+- 🎯 Looking for my first internship
+
+## 📂 Projects
+- **BG Color Changer** — Dynamic background color changer with custom input
+- **Vanilla JS Todo** — Todo app with DOM manipulation
+- **Zerodha Landing Page** — Clone of Zerodha's landing page
+
+## 📫 Connect with me
+- LinkedIn — [https://linkedin.com/in/Pranav-05x]
+- GitHub — [@Pranav-05x](https://github.com/Pranav-05x)
