@@ -28,14 +28,14 @@
 
 ### 🧑‍💻 About Me
 
-\`\`\`js
+```js
 const pranav = {
-  fullName: "Pranav",
+  fullName: "Pranav Magdum",
   education: "B.Tech, Computer Science Engineering",
   interests: ["Full-Stack Development", "Backend Systems", "DSA"],
   philosophy: "Type every line, understand every bug",
 };
-\`\`\`
+```
 
 ---
 
