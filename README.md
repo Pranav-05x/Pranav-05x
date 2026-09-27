@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN+%2B+Next.js);Backend+%7C+Frontend+%7C+Databases;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+and+Frontend;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ```js
 const pranav = {
-  fullName: "Pranav Magdum",
+  fullName: "Pranav",
   education: "B.Tech, Computer Science Engineering",
   interests: ["Full-Stack Development", "Backend Systems", "DSA"],
   philosophy: "Type every line, understand every bug",
